@@ -10,9 +10,17 @@ h1{
 li{
     color: green;
 }
-.lien a{
+.liste2{
+    margin-top: 20px;
+}
+.lien{
     display: inline-block;
+}
+.lien a{
     color: chartreuse;
+    font-size: x-large;
+    padding: 10px;
+    margin-top: 100px;
 }
 .lien a:hover{
     background-color: orange;
