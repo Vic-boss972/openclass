@@ -17,3 +17,7 @@ li{
 .lien a:hover{
     background-color: orange;
 }
+p{
+    color: aqua;
+    font-weight: bolder;
+}
